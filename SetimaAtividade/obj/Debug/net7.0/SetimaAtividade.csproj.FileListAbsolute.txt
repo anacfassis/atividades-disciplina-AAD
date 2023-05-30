@@ -1,0 +1,15 @@
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\SetimaAtividade.csproj.AssemblyReference.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\SetimaAtividade.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\SetimaAtividade.AssemblyInfoInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\SetimaAtividade.AssemblyInfo.cs
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\SetimaAtividade.csproj.CoreCompileInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\bin\Debug\net7.0\SetimaAtividade.exe
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\bin\Debug\net7.0\SetimaAtividade.deps.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\bin\Debug\net7.0\SetimaAtividade.runtimeconfig.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\bin\Debug\net7.0\SetimaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\bin\Debug\net7.0\SetimaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\SetimaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\refint\SetimaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\SetimaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\SetimaAtividade.genruntimeconfig.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\SetimaAtividade\obj\Debug\net7.0\ref\SetimaAtividade.dll

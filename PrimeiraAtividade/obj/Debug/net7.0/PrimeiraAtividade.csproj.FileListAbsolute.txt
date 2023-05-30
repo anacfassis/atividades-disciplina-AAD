@@ -1,0 +1,15 @@
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.exe
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.deps.json
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.runtimeconfig.json
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.dll
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\bin\Debug\net7.0\PrimeiraAtividade.pdb
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.csproj.AssemblyReference.cache
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.AssemblyInfoInputs.cache
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.AssemblyInfo.cs
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.csproj.CoreCompileInputs.cache
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.dll
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\refint\PrimeiraAtividade.dll
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.pdb
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\PrimeiraAtividade.genruntimeconfig.cache
+C:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\PrimeiraAtividade\obj\Debug\net7.0\ref\PrimeiraAtividade.dll

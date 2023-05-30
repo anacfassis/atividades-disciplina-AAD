@@ -1,0 +1,15 @@
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\OitavaAtividade.csproj.AssemblyReference.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\OitavaAtividade.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\OitavaAtividade.AssemblyInfoInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\OitavaAtividade.AssemblyInfo.cs
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\OitavaAtividade.csproj.CoreCompileInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\bin\Debug\net7.0\OitavaAtividade.exe
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\bin\Debug\net7.0\OitavaAtividade.deps.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\bin\Debug\net7.0\OitavaAtividade.runtimeconfig.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\bin\Debug\net7.0\OitavaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\bin\Debug\net7.0\OitavaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\OitavaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\refint\OitavaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\OitavaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\OitavaAtividade.genruntimeconfig.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\OitavaAtividade\obj\Debug\net7.0\ref\OitavaAtividade.dll

@@ -1,0 +1,15 @@
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\QuartaAtividade.csproj.AssemblyReference.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\QuartaAtividade.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\QuartaAtividade.AssemblyInfoInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\QuartaAtividade.AssemblyInfo.cs
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\QuartaAtividade.csproj.CoreCompileInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\bin\Debug\net7.0\QuartaAtividade.exe
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\bin\Debug\net7.0\QuartaAtividade.deps.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\bin\Debug\net7.0\QuartaAtividade.runtimeconfig.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\bin\Debug\net7.0\QuartaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\bin\Debug\net7.0\QuartaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\QuartaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\refint\QuartaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\QuartaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\QuartaAtividade.genruntimeconfig.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuartaAtividade\obj\Debug\net7.0\ref\QuartaAtividade.dll

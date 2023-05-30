@@ -1,0 +1,15 @@
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\bin\Debug\net7.0\QuintaAtividade.exe
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\bin\Debug\net7.0\QuintaAtividade.deps.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\bin\Debug\net7.0\QuintaAtividade.runtimeconfig.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\bin\Debug\net7.0\QuintaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\bin\Debug\net7.0\QuintaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\QuintaAtividade.csproj.AssemblyReference.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\QuintaAtividade.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\QuintaAtividade.AssemblyInfoInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\QuintaAtividade.AssemblyInfo.cs
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\QuintaAtividade.csproj.CoreCompileInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\QuintaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\refint\QuintaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\QuintaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\QuintaAtividade.genruntimeconfig.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\QuintaAtividade\obj\Debug\net7.0\ref\QuintaAtividade.dll

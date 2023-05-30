@@ -1,0 +1,15 @@
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\TerceiraAtividade.csproj.AssemblyReference.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\TerceiraAtividade.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\TerceiraAtividade.AssemblyInfoInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\TerceiraAtividade.AssemblyInfo.cs
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\TerceiraAtividade.csproj.CoreCompileInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\bin\Debug\net7.0\TerceiraAtividade.exe
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\bin\Debug\net7.0\TerceiraAtividade.deps.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\bin\Debug\net7.0\TerceiraAtividade.runtimeconfig.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\bin\Debug\net7.0\TerceiraAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\bin\Debug\net7.0\TerceiraAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\TerceiraAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\refint\TerceiraAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\TerceiraAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\TerceiraAtividade.genruntimeconfig.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\TerceiraAtividade\obj\Debug\net7.0\ref\TerceiraAtividade.dll
