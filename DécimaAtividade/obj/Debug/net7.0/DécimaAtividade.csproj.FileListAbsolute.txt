@@ -1,0 +1,15 @@
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\DécimaAtividade.csproj.AssemblyReference.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\DécimaAtividade.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\DécimaAtividade.AssemblyInfoInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\DécimaAtividade.AssemblyInfo.cs
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\DécimaAtividade.csproj.CoreCompileInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\bin\Debug\net7.0\DécimaAtividade.exe
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\bin\Debug\net7.0\DécimaAtividade.deps.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\bin\Debug\net7.0\DécimaAtividade.runtimeconfig.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\bin\Debug\net7.0\DécimaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\bin\Debug\net7.0\DécimaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\DécimaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\refint\DécimaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\DécimaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\DécimaAtividade.genruntimeconfig.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\DécimaAtividade\obj\Debug\net7.0\ref\DécimaAtividade.dll
