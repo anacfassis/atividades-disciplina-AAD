@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\QuintaAtividade\\QuintaAtividade.csproj": {}
+    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\QuintaAtividade\\QuintaAtividade.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\QuintaAtividade\\QuintaAtividade.csproj": {
+    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\QuintaAtividade\\QuintaAtividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\QuintaAtividade\\QuintaAtividade.csproj",
+        "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\QuintaAtividade\\QuintaAtividade.csproj",
         "projectName": "QuintaAtividade",
-        "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\QuintaAtividade\\QuintaAtividade.csproj",
+        "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\QuintaAtividade\\QuintaAtividade.csproj",
         "packagesPath": "C:\\Users\\ninha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\QuintaAtividade\\obj\\",
+        "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\QuintaAtividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ninha\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SegundaAtividade\\SegundaAtividade.csproj",
+      "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SegundaAtividade\\SegundaAtividade.csproj",
       "projectName": "SegundaAtividade",
-      "projectPath": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SegundaAtividade\\SegundaAtividade.csproj",
+      "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SegundaAtividade\\SegundaAtividade.csproj",
       "packagesPath": "C:\\Users\\ninha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SegundaAtividade\\obj\\",
+      "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SegundaAtividade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ninha\\AppData\\Roaming\\NuGet\\NuGet.Config"

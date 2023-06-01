@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SextaAtividade\\SextaAtividade.csproj": {}
+    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SextaAtividade\\SextaAtividade.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SextaAtividade\\SextaAtividade.csproj": {
+    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SextaAtividade\\SextaAtividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SextaAtividade\\SextaAtividade.csproj",
+        "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SextaAtividade\\SextaAtividade.csproj",
         "projectName": "SextaAtividade",
-        "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SextaAtividade\\SextaAtividade.csproj",
+        "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SextaAtividade\\SextaAtividade.csproj",
         "packagesPath": "C:\\Users\\ninha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SextaAtividade\\obj\\",
+        "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SextaAtividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ninha\\AppData\\Roaming\\NuGet\\NuGet.Config"

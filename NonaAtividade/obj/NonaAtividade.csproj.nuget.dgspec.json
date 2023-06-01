@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\NonaAtividade\\NonaAtividade.csproj": {}
+    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\NonaAtividade\\NonaAtividade.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\NonaAtividade\\NonaAtividade.csproj": {
+    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\NonaAtividade\\NonaAtividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\NonaAtividade\\NonaAtividade.csproj",
+        "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\NonaAtividade\\NonaAtividade.csproj",
         "projectName": "NonaAtividade",
-        "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\NonaAtividade\\NonaAtividade.csproj",
+        "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\NonaAtividade\\NonaAtividade.csproj",
         "packagesPath": "C:\\Users\\ninha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\NonaAtividade\\obj\\",
+        "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\NonaAtividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ninha\\AppData\\Roaming\\NuGet\\NuGet.Config"

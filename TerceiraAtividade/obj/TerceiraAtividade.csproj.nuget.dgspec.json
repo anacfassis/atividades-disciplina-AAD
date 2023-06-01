@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\TerceiraAtividade\\TerceiraAtividade.csproj": {}
+    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\TerceiraAtividade\\TerceiraAtividade.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\TerceiraAtividade\\TerceiraAtividade.csproj": {
+    "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\TerceiraAtividade\\TerceiraAtividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\TerceiraAtividade\\TerceiraAtividade.csproj",
+        "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\TerceiraAtividade\\TerceiraAtividade.csproj",
         "projectName": "TerceiraAtividade",
-        "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\TerceiraAtividade\\TerceiraAtividade.csproj",
+        "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\TerceiraAtividade\\TerceiraAtividade.csproj",
         "packagesPath": "C:\\Users\\ninha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\TerceiraAtividade\\obj\\",
+        "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\TerceiraAtividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ninha\\AppData\\Roaming\\NuGet\\NuGet.Config"

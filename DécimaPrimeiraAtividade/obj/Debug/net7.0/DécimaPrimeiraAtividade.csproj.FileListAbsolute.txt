@@ -1,0 +1,15 @@
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\bin\Debug\net7.0\DécimaPrimeiraAtividade.exe
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\bin\Debug\net7.0\DécimaPrimeiraAtividade.deps.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\bin\Debug\net7.0\DécimaPrimeiraAtividade.runtimeconfig.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\bin\Debug\net7.0\DécimaPrimeiraAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\bin\Debug\net7.0\DécimaPrimeiraAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\DécimaPrimeiraAtividade.csproj.AssemblyReference.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\DécimaPrimeiraAtividade.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\DécimaPrimeiraAtividade.AssemblyInfoInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\DécimaPrimeiraAtividade.AssemblyInfo.cs
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\DécimaPrimeiraAtividade.csproj.CoreCompileInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\DécimaPrimeiraAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\refint\DécimaPrimeiraAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\DécimaPrimeiraAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\DécimaPrimeiraAtividade.genruntimeconfig.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaPrimeiraAtividade\obj\Debug\net7.0\ref\DécimaPrimeiraAtividade.dll

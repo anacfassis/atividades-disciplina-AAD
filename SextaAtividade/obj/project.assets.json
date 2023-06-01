@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SextaAtividade\\SextaAtividade.csproj",
+      "projectUniqueName": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SextaAtividade\\SextaAtividade.csproj",
       "projectName": "SextaAtividade",
-      "projectPath": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SextaAtividade\\SextaAtividade.csproj",
+      "projectPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SextaAtividade\\SextaAtividade.csproj",
       "packagesPath": "C:\\Users\\ninha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\SextaAtividade\\obj\\",
+      "outputPath": "c:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\CSharp\\atividades-disciplina-AAD\\SextaAtividade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ninha\\AppData\\Roaming\\NuGet\\NuGet.Config"
