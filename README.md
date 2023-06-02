@@ -1,6 +1,6 @@
 # Atividades Disciplina Algoritmos e Abstração de Dados (AAD)
 
-Durante a disciplina de AAD, desenvolvi alguns projetos utilizando a linguagem C# com vetores, matrizes e struct.
+Durante a disciplina de AAD, desenvolvi alguns projetos utilizando a linguagem C# com vetores, matrizes, struct e class.
 
 Seguem as atividades desenvolvidas:
 - Atividade 1: Soma de números pares e quantidade de números ímpares de um vetor de números inteiros com 5 posições;
