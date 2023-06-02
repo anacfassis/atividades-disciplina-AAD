@@ -1,0 +1,15 @@
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\DécimaSextaAtividade.csproj.AssemblyReference.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\DécimaSextaAtividade.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\DécimaSextaAtividade.AssemblyInfoInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\DécimaSextaAtividade.AssemblyInfo.cs
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\DécimaSextaAtividade.csproj.CoreCompileInputs.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\bin\Debug\net7.0\DécimaSextaAtividade.exe
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\bin\Debug\net7.0\DécimaSextaAtividade.deps.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\bin\Debug\net7.0\DécimaSextaAtividade.runtimeconfig.json
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\bin\Debug\net7.0\DécimaSextaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\bin\Debug\net7.0\DécimaSextaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\DécimaSextaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\refint\DécimaSextaAtividade.dll
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\DécimaSextaAtividade.pdb
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\DécimaSextaAtividade.genruntimeconfig.cache
+c:\Users\ninha\OneDrive\Documentos\GitHub\Meus projetos\CSharp\atividades-disciplina-AAD\DécimaSextaAtividade\obj\Debug\net7.0\ref\DécimaSextaAtividade.dll
