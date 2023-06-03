@@ -1,0 +1,301 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+           {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+            "name": ".NET Core Launch 1 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/PrimeiraAtividade/bin/Debug/net7.0/PrimeiraAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/PrimeiraAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+       
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+            "name": ".NET Core Launch 2 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/SegundaaAtividade/bin/Debug/net7.0/SegundaAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/SegundaAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+            "name": ".NET Core Launch 3 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/TerceiraAtividade/bin/Debug/net7.0/TerceiraAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/TerceiraAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+            "name": ".NET Core Launch 4 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/QuartaAtividade/bin/Debug/net7.0/TerceiraAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/QuartaAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit
+            //
+
+            "name": ".NET Core Launch 5 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/QuintaAtividade/bin/Debug/net7.0/QuintaAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/QuintaAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit
+            //
+
+            "name": ".NET Core Launch 6 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/SextaAtividade/bin/Debug/net7.0/SextaAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/SextaAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit
+            //
+
+            "name": ".NET Core Launch 7 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/SetimaAtividade/bin/Debug/net7.0/SetimaAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/SetimaAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit
+            //
+
+            "name": ".NET Core Launch 8 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/OitavaAtividade/bin/Debug/net7.0/OitavaAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/OitavaAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+
+        {
+          // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit
+            //
+
+            "name": ".NET Core Launch 9 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/NonaAtividade/bin/Debug/net7.0/NonaAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/NonaAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false  
+        },
+
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit
+            //
+
+            "name": ".NET Core Launch 10 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/DécimaAtividade/bin/Debug/net7.0/DécimaAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/DécimaAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit
+            //
+
+            "name": ".NET Core Launch 11 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/DécimaPrimeiraAtividade/bin/Debug/net7.0/DécimaPrimeiraAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/DécimaPrimeiraAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+
+        {
+           // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit
+            //
+
+            "name": ".NET Core Launch 12 (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/atividades-disciplina-AAD/DécimaSegundaAtividade/bin/Debug/net7.0/DécimaSegundaAtividade.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/atividades-disciplina-AAD/DécimaSegundaAtividade",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false 
+        },
+
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+             // Use hover for the description of the existing attributes
+             // For further information visit
+             //
+ 
+             "name": ".NET Core Launch 13 (console)",
+             "type": "coreclr",
+             "request": "launch",
+             "preLaunchTask": "build",
+             // If you have changed target frameworks, make sure to update the program path.
+             "program": "${workspaceFolder}/atividades-disciplina-AAD/DécimaTerceiraAtividade/bin/Debug/net7.0/DécimaTerceiraAtividade.dll",
+             "args": [],
+             "cwd": "${workspaceFolder}/atividades-disciplina-AAD/DécimaTerceiraAtividade",
+             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+             "console": "externalTerminal",
+             "stopAtEntry": false 
+         },
+
+         {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+             // Use hover for the description of the existing attributes
+             // For further information visit
+             //
+ 
+             "name": ".NET Core Launch 14 (console)",
+             "type": "coreclr",
+             "request": "launch",
+             "preLaunchTask": "build",
+             // If you have changed target frameworks, make sure to update the program path.
+             "program": "${workspaceFolder}/atividades-disciplina-AAD/DécimaQuartaAtividade/bin/Debug/net7.0/DécimaQuartaAtividade.dll",
+             "args": [],
+             "cwd": "${workspaceFolder}/atividades-disciplina-AAD/DécimaQuartaAtividade",
+             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+             "console": "externalTerminal",
+             "stopAtEntry": false 
+         },
+
+         {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+             // Use hover for the description of the existing attributes
+             // For further information visit
+             //
+ 
+             "name": ".NET Core Launch 15 (console)",
+             "type": "coreclr",
+             "request": "launch",
+             "preLaunchTask": "build",
+             // If you have changed target frameworks, make sure to update the program path.
+             "program": "${workspaceFolder}/atividades-disciplina-AAD/DécimaQuintaAtividade/bin/Debug/net7.0/DécimaQuintaAtividade.dll",
+             "args": [],
+             "cwd": "${workspaceFolder}/atividades-disciplina-AAD/DécimaQuintaAtividade",
+             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+             "console": "externalTerminal",
+             "stopAtEntry": false 
+         },
+
+         {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+             // Use hover for the description of the existing attributes
+             // For further information visit
+             //
+ 
+             "name": ".NET Core Launch 16 (console)",
+             "type": "coreclr",
+             "request": "launch",
+             "preLaunchTask": "build",
+             // If you have changed target frameworks, make sure to update the program path.
+             "program": "${workspaceFolder}/atividades-disciplina-AAD/DécimaSextaAtividade/bin/Debug/net7.0/DécimaSextaAtividade.dll",
+             "args": [],
+             "cwd": "${workspaceFolder}/atividades-disciplina-AAD/DécimaSextaAtividade",
+             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+             "console": "externalTerminal",
+             "stopAtEntry": false 
+         },
+
+    ]
+}
